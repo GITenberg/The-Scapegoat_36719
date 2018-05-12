@@ -1,0 +1,29 @@
+_repo: The-Scapegoat_36719
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36719-h/images/cover_1.jpg
+creator:
+  author:
+    agent_name: Maples, Richard
+    gutenberg_agent_id: '38442'
+    url: http://www.gutenberg.org/2009/agents/38442
+description: Who would not have pity for a poor, helpless victim? Nobody - except
+  another poor victim!
+gutenberg_issued: '2011-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36719'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Impostors and imposture -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Scapegoat
+url: http://www.gutenberg.org/ebooks/36719
