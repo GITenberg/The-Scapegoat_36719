@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38442
 description: Who would not have pity for a poor, helpless victim? Nobody - except
   another poor victim!
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36719#The-Scapegoat
 gutenberg_issued: '2011-07-13'
 gutenberg_type: Text
 identifiers:
